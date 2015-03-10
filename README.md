@@ -1,2 +1,2 @@
 # hello-world
-first one
+The initial Readme file for my first repository
